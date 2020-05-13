@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "866862284407",
+    "firebase_url": "https://coffeemaker-6fd9d.firebaseio.com",
+    "project_id": "coffeemaker-6fd9d",
+    "storage_bucket": "coffeemaker-6fd9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866862284407:android:7747c17580229672271072",
+        "android_client_info": {
+          "package_name": "com.example.coffeemaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866862284407-0jr6oe0trfngrf07agqi46clvpg0ekkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwtDCyu_YAz8J2xb-yf47ZhqzfznaRWQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866862284407-0jr6oe0trfngrf07agqi46clvpg0ekkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
